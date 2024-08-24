@@ -81,7 +81,10 @@ In addition to this, these PRs were submitted during the application review peri
 
 Here, I will walk through some of the major contributions, from the above pull requests, where I added estimators to sktime.
 
-To see the working and inference of these estimators, please refer to [code.ipynb](./code.ipynb).
+To see the working and inference of these estimators, please refer to [CODE.ipynb](./CODE.ipynb).
+
+[<img src="assets/jupyter-logo.svg" alt="Jupyter Logo" width="15%">](./CODE.ipynb)
+
 
 ### ⚡ MVTSTransformerClassifier
 
@@ -117,7 +120,7 @@ model = MVTSTransformerClassifier(
 )
 ```
 
-For more details on how the estimator works, please refer to [code.ipynb](./code.ipynb).
+For more details on how the estimator works, please refer to [CODE.ipynb](./CODE.ipynb).
 
 ### ⚡ TinyTimeMixer
 
@@ -155,7 +158,7 @@ model = TinyTimeMixerForecaster(
 )
 ```
 
-For further details on how the estimator functions, please refer to [code.ipynb](./code.ipynb).
+For further details on how the estimator functions, please refer to [CODE.ipynb](./CODE.ipynb).
 
 ### ⚡ LTSFTransformer
 
@@ -208,7 +211,7 @@ model = LTSFTransformerForecaster(
 )
 ```
 
-For further details on how the estimator functions, please refer to [code.ipynb](./code.ipynb).
+For further details on how the estimator functions, please refer to [CODE.ipynb](./CODE.ipynb).
 
 ### ⚡ TimesFM
 
@@ -238,7 +241,7 @@ forecaster = TimesFMForecaster(
 )
 ```
 
-For more details on how the estimator functions, please refer to [code.ipynb](./code.ipynb).
+For more details on how the estimator functions, please refer to [CODE.ipynb](./CODE.ipynb).
 
 ### ⚡ PEFT for HFTransformersForecaster
 
@@ -281,7 +284,7 @@ forecaster = HFTransformersForecaster(
 )
 ```
 
-For more details on how the estimator works, please refer to [code.ipynb](./code.ipynb).
+For more details on how the estimator works, please refer to [CODE.ipynb](./CODE.ipynb).
 
 ### ⚡ AutoregressiveWrapper
 
@@ -311,7 +314,7 @@ wrapper = AutoRegressiveWrapper(
 )
 ```
 
-For more details on how the estimator works, please refer to [code.ipynb](./code.ipynb).
+For more details on how the estimator works, please refer to [CODE.ipynb](./CODE.ipynb).
 
 ### ⚡ Global Forecasting for PyTorch Models
 
