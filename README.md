@@ -40,11 +40,11 @@ My project was focused on implementing and interfacing deep learning models in s
 
 ### Challenges
 
-- Initially, managing time was challenging, as it was my first experience working on a project of this scale.
-- Maintaining consistency with daily stand-ups and weekly mentoring sessions was difficult at first.
-- Understanding and making changes to a large, complex codebase was particularly tough.
-- I had to dive deeper into certain libraries to implement features effectively, requiring more in-depth knowledge than I initially had.
-- I discovered that designing solutions was more challenging than implementing them, leading me to focus more on efficient design strategies before execution.
+- Initially, managing time was difficult, as it was my first experience working on a project of this scale. However, I quickly adapted by breaking down tasks and prioritizing them, which improved my efficiency.
+- Maintaining consistency with daily stand-ups and weekly mentoring sessions was challenging at first. Over time, I became more comfortable with agile practices, and I eventually led the weekly stand-ups, which enhanced my productivity and integration with the team.
+- Understanding and modifying a large, complex codebase was tough, but I tackled this by gradually familiarizing myself with key components, which made navigating and contributing to the codebase easier.
+- Implementing features required deeper knowledge of certain libraries than I initially had. I addressed this by dedicating extra time to learning these libraries, which allowed me to implement features effectively.
+- Designing solutions proved more challenging than implementing them. Recognizing this, I shifted my focus to developing efficient design strategies before execution, leading to more robust solutions.
 
 # 🎯 Contributions
 
@@ -333,6 +333,6 @@ Some relevant future work:
 - Improvements are also planned with the global forecasting interface - [#6997](https://github.com/sktime/sktime/issues/6997)
 - Enabling PEFT for foundation models - [#6968](https://github.com/sktime/sktime/issues/6968)
 
-# ⭐️ Achnowledgements
+# ⭐️ Acknowledgements
 
 I had a great experience over the summer, and although the GSoC period is coming to an end, going forward I shall continue to remain a contributor to sktime. I'm incredibly thankful to both Google and sktime for giving me this opportunity, and to the welcoming community and amazing mentors at sktime for making this experience such a memorable one. There is no doubt that I am a better coder than I was 4 months ago, and I'm eagerly looking forward to learning more in the time to come.
